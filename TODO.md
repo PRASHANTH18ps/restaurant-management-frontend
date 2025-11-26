@@ -1,0 +1,2 @@
+- [x] Update StaffsLogin.js to remove background image and apply light gradient background matching navbar
+- [x] Redesign the form with Bootstrap card layout for consistency
